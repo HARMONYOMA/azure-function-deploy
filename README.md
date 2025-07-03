@@ -77,5 +77,13 @@ GitHub Actions will automatically:
 - Set up monitoring.
 - Configure email alerts.
 
+## ⚙️ CI/CD Workflow Status
+
+The automated GitHub Actions deployment workflow has been **removed** from this project.  
+If you wish to set up CI/CD again, you can create a new workflow file in the `.github/workflows` folder and configure it with your Azure credentials and publish profile.
+
+For now, the project can still be cloned, explored, and manually deployed without any automated actions.
+
+
 📞 Contact
 For questions or support, please contact: Email: anigbogup@gmail.com
